@@ -1,1 +1,2 @@
 big-image.jpg filter=lfs diff=lfs merge=lfs -text
+big-image[[:space:]]copy.jpg filter=lfs diff=lfs merge=lfs -text
